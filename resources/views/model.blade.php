@@ -16,6 +16,7 @@
         box-shadow: inset 0 0.5em 1.5em rgba(0, 0, 0, .1), inset 0 0.125em 0.5em rgba(0, 0, 0, .15);
         }
     </style>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootswatch/5.3.2/spacelab/bootstrap.min.css" integrity="sha512-OsnWn3iY8g5fvPVh4NfuD4/gr9uqzzT8sCouwQ1tzF6RMAVlUbNXSfk6Wxvo2HpIIR5SG0g9THIW4dxcskRG+Q==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     @section('scriptshead')
     @show
   </head>

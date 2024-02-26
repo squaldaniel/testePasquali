@@ -3,8 +3,9 @@
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\CategoryController;
 use App\Http\Controllers\ProductsController;
+use App\Http\Controllers\HomeController;
 
-Route::get('/', [ProductsController::class, 'index']);
+Route::get('/', [HomeController::class, 'index']);
 /*
 Routes to products
 */

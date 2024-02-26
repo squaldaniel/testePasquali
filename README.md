@@ -10,3 +10,4 @@ Rode a s migrações em um banco de dados de sua preferência, executamos o dese
 ```sh
 php artisan migrate
 ```
+![responsivo](/public/tela_004.png)
