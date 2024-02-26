@@ -10,4 +10,17 @@ Rode a s migrações em um banco de dados de sua preferência, executamos o dese
 ```sh
 php artisan migrate
 ```
+Depois para que seja possivel ter uma previa da aplicação, execute o comando para rodar as seeds do banco:
+```sh
+php artisan db:seed
+```
+e por fim inicialize a aplicação com o comando:
+```sh
+php artisan serve
+```
+
+### Screenshots da aplicação
 ![responsivo](/public/tela_004.png)
+![tela001](/public/tela_001.png)
+![tela002](/public/tela_003.png)
+![tela003](/public/tela_002.png)
